@@ -4,6 +4,15 @@ Here you can find plans, designed by [me](https://tomhe.net), for depron RC airp
 
 ![F/A-18 sketch](fa-18-sketch.png)
 
+Pusher-prop jets:
+* [F-16](./f-16/)
+* [F-22](./f-22/)
+
+3D aerobatics:
+* [Sukhoi Su-31](./su-31/)
+
+* * *
+
 All my plans are published under a [Creative Commons Attribution-Noncommercial-Share Alike](https://creativecommons.org/licenses/by-nc-sa/3.0/) license.
 
 You are free:
@@ -20,6 +29,8 @@ In plain English this means that
   * attribute me as the original designer with a link to this web site
   * release your version under the same or similar license to this one
 * you may not use my plans for commercial purposes
+
+* * *
 
 I'd appreciate if you would send me pictures of your builds if you use any of my plans.
 
