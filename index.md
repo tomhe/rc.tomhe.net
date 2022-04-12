@@ -25,10 +25,10 @@ All my plans are published under a [Creative Commons Attribution-Noncommercial-S
 
 In plain English this means that
 - you are free to download my plans and build airplane models from them
+- you may not use my plans for commercial purposes
 - if you make any changes to the plans and want to publish or share your version you have to
   - attribute me as the original designer with a link to this web site
   - release your version under the same or similar license to this one
-- you may not use my plans for commercial purposes
 
 * * *
 
