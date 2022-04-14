@@ -13,15 +13,16 @@ Pusher-prop jets:
 
 * * *
 
-All my plans are published under a [Creative Commons Attribution-Noncommercial-Share Alike](https://creativecommons.org/licenses/by-nc-sa/3.0/) license.
+All my plans are published under a [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
 
 > You are free:
-> - _to Share_ — to copy, distribute and transmit the work
-> - _to Remix_ — to adapt the work
+> - _to Share_ — copy and redistribute the material in any medium or format
+> - _to Adapt_ — remix, transform, and build upon the material
+
 > Under the following conditions:
-> - _Attribution._ You must attribute the work in the manner specified by the author or licensor (but not in any way that suggests that they endorse you or your use of the work).
-> - _Noncommercial._ You may not use this work for commercial purposes.
-> - _Share Alike._ If you alter, transform, or build upon this work, you may distribute the resulting work only under the same or similar license to this one.
+> - _Attribution._ — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+> - _NonCommercial._ — You may not use the material for commercial purposes.
+> - _ShareAlike._ — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 In plain English this means that
 - you are free to download my plans and build airplane models from them
