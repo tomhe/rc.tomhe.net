@@ -14,7 +14,7 @@ The dimensions of the slots and tabs are made for 6 mm depron.
   <dt>Length</dt>
   <dd>101 cm (40 inches)</dd>
   <dt>CoG location</dt>
-  <dd><a href="./cg.png">12 cm (4.75 inches) from wingbreak</a></dd>
+  <dd><a href="./cg.jpg">12 cm (4.75 inches) from wingbreak</a></dd>
   <dt>Propeller slot</dt>
   <dd>Fits propellers with a maximum diameter of 6 inches</dd>
 </dl>
