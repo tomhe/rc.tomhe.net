@@ -1,3 +1,5 @@
+![Eurofighter](./27.jpg)
+
 # Description
 
 The Eurofighter Typhoon is a mid-mounted pusher model. It is intended to be flown with tailerons only, but I've also made markings for a rudder. Build it from the plans attached below.
