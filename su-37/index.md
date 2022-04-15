@@ -1,4 +1,4 @@
-![Su-37 Super Flanker](./13.jpg)
+![Sukhoi Su-37 Super Flanker](./13.jpg)
 
 # Description
 
