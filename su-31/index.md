@@ -4,7 +4,11 @@
 
 ## Description
 
-The Su-31 is a mid-mounted pusher model intended to be flown with tailerons only, but it can easily be equipped with ailerons and rudders. Build it from the plans attached below.
+The Sukhoi Su-31 is an aerobatic 3D plane that is intended for outdoor use. Build it from the plans attached below.
+
+I have marked out a slot for the motor, but you might want to modify it to for your particular motor and mount. I have included a motor mount that fits the slot.
+
+This is quite a large model, so make sure to user proper reinforcements on the wing and elevator, like stiff carbon fiber rods.
 
 The dimensions of the slots and tabs are made for 6 mm depron.
 
@@ -12,13 +16,11 @@ The dimensions of the slots and tabs are made for 6 mm depron.
 
 <dl>
   <dt>Wing span</dt>
-  <dd>772 cm (28 inches)</dd>
+  <dd>105 cm (41 inches)</dd>
   <dt>Length</dt>
-  <dd>103 cm (41 inches)</dd>
+  <dd>98 cm (39 inches)</dd>
   <dt>CoG location</dt>
-  <dd>10 cm (4 inches) behind the point where the trailing edge of the canards meet the fuselage</dd>
-  <dt>Propeller slot</dt>
-  <dd>Fits propellers with a maximum diameter of 6 inches</dd>
+  <dd>5.7 cm (2.2 inches) behind wing leading edge</dd>
 </dl>
 
 ## Build instructions
