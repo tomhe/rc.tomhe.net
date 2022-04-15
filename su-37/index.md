@@ -1,8 +1,8 @@
-![Su-31 Super Flanker](./13.jpg)
+![Su-37 Super Flanker](./13.jpg)
 
 # Description
 
-The Sukhoi Su-31 is an aerobatic 3D plane that is intended for outdoor use. Build it from the plans attached below.
+The Sukhoi Su-37 is an aerobatic 3D plane that is intended for outdoor use. Build it from the plans attached below.
 
 I have marked out a slot for the motor, but you might want to modify it to for your particular motor and mount. I have included a motor mount that fits the slot.
 
@@ -31,19 +31,19 @@ Not available.
 
 # CAD images
 
-{% include image-gallery.html folder="/su-31/cad" %}
+{% include image-gallery.html folder="/su-37/cad" %}
 
 # Build images
 
-{% include image-gallery.html folder="/su-31/build" %}
+{% include image-gallery.html folder="/su-37/build" %}
 
 # Model images
 
-{% include image-gallery.html folder="/su-31/model" %}
+{% include image-gallery.html folder="/su-37/model" %}
 
 # Plans
 
-{% include files.html folder="/su-31/plans" %}
+{% include files.html folder="/su-37/plans" %}
 
 # License
 
