@@ -45,6 +45,10 @@ Use the [6mmFlyRC MiG-29 instruction manual](../docs/quick-build-mig-29.pdf). Th
 
 {% include image-gallery.html folder="/eurofighter/artwork" %}
 
+# Plans
+
+{% include files.html folder="/eurofighter/plans" %}
+
 # License
 
 {% include license.html %}
