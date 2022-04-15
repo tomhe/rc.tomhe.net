@@ -6,8 +6,8 @@ Here you can find plans, designed by [me](https://tomhe.net), for depron RC airp
 
 Pusher-prop jets:
 * [Eurofighter Typhoon](./eurofighter/)
-* [F-16](./f-16/)
-* [F-22](./f-22/)
+* [F-16 Fighting Falcon](./f-16/)
+* [F-22 Raptor](./f-22/)
 
 3D aerobatics:
 * [Sukhoi Su-31](./su-31/)
