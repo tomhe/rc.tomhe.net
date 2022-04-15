@@ -27,7 +27,7 @@ Use the [6mmFlyRC MiG-29 instruction manual](../docs/quick-build-mig-29.pdf). Th
 
 # Forum discussion
 
-http://www.rcgroups.com/forums/showthread.php?t=976693
+[http://www.rcgroups.com/forums/showthread.php?t=976693](http://www.rcgroups.com/forums/showthread.php?t=976693)
 
 # CAD images
 
