@@ -5,15 +5,15 @@
 Here you can find plans, designed by [me](https://tomhe.net), for depron RC airplane models. Currently I have plans for pusher prop jets and plans for 3D aerobatics.
 
 Pusher-prop jets:
-* [Eurofighter Typhoon](./eurofighter/)
-* [F-16 Fighting Falcon](./f-16/)
-* [F-22 Raptor](./f-22/)
-* [F/A-18 Super Hornet](./fa-18/)
-* [MiG-29 Fulcrum](./mig-29/)
-* [Su-37 Super Flanker](./su-37/)
+* [Eurofighter Typhoon](/eurofighter/)
+* [F-16 Fighting Falcon](/f-16/)
+* [F-22 Raptor](/f-22/)
+* [F/A-18 Super Hornet](/fa-18/)
+* [MiG-29 Fulcrum](/mig-29/)
+* [Su-37 Super Flanker](/su-37/)
 
 3D aerobatics:
-* [Sukhoi Su-31](./su-31/)
+* [Sukhoi Su-31](/su-31/)
 
 * * *
 
@@ -28,3 +28,12 @@ Now go and cut some foam!
 *Tomas Hellberg*
 
 Contact: tomhe at tomhe dot net
+
+<aside>
+<a href="/eurofighter/">Eurofighter Typhoon</a>
+<a href="/f-16/">F-16 Fighting Falcon</a>
+<a href="/f-22/">F-22 Raptor</a>
+<a href="/fa-18/">F/A-18 Super Hornet</a>
+<a href="/mig-29/">MiG-29 Fulcrum</a>
+<a href="/su-37/">Su-37 Super Flanker</a>
+</aside>
