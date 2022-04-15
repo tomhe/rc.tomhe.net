@@ -33,7 +33,7 @@ Use the [6mmFlyRC MiG-29 instruction manual](../docs/quick-build-mig-29.pdf). Th
 
 {% include image-gallery.html folder="./cad/" %}
 
-# Licencse
+# License
 
 {% include license.html %}
 
