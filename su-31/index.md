@@ -47,6 +47,7 @@ Not available.
 ## Artwork
 
 {% include image-gallery.html folder="/su-31/artwork" %}
+{% include files.html folder="/su-31/artwork" %}
 
 ## Plans
 
