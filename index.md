@@ -26,3 +26,5 @@ I'd appreciate if you would send me pictures of your builds if you use any of my
 Now go and cut some foam!
 
 *Tomas Hellberg*
+
+Contact: tomhe at tomhe dot net
