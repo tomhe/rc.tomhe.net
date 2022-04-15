@@ -6,7 +6,7 @@
 
 The Sukhoi Su-31 is an aerobatic 3D plane that is intended for outdoor use. Build it from the plans attached below.
 
-I have marked out a slot for the motor, but you might want to modify it to for your particular motor and mount. I have included a motor mount that fits the slot.
+I have marked out a slot for the motor, but you might want to modify it to for your particular motor and mount. I have included [a motor mount](./plans/su-31-r1-motor-mount.pdf) that fits the slot.
 
 This is quite a large model, so make sure to user proper reinforcements on the wing and elevator, like stiff carbon fiber rods.
 
