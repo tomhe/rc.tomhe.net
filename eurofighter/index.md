@@ -20,3 +20,11 @@ The dimensions of the slots and tabs are made for 6 mm depron.
   <dt>Propeller slot</dt>
   <dd>Fits propellers with a maximum diameter of 6 inches</dd>
 </dl>
+
+# Build Instructions
+
+Use the [6mmFlyRC MiG-29 instruction manual](../docs/quick-build-mig-29.pdf). The build steps are the same.
+
+# Forum Discussion
+
+http://www.rcgroups.com/forums/showthread.php?t=976693
