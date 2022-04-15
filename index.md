@@ -23,8 +23,8 @@ Pusher-prop jets:
 
 I'd appreciate if you would send me pictures of your builds if you use any of my plans.
 
-Contact: tomhe at tomhe dot net
+E-mail: tomhe at tomhe dot net
 
-Now go and cut some foam!
+Happy building!
 
 *Tomas Hellberg*
