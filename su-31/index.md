@@ -29,7 +29,7 @@ Not available.
 
 ## Forum discussion
 
-[http://www.rcgroups.com/forums/showthread.php?t=803385](http://www.rcgroups.com/forums/showthread.php?t=803385)
+[http://www.rcgroups.com/forums/showthread.php?t=1058716](http://www.rcgroups.com/forums/showthread.php?t=1058716)
 
 ## CAD images
 
