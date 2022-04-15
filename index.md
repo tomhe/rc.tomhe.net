@@ -1,8 +1,8 @@
+![F/A-18 sketch](fa-18-sketch.png)
+
 # Welcome
 
 Here you can find plans, designed by [me](https://tomhe.net), for depron RC airplane models. Currently I have plans for pusher prop jets and plans for 3D aerobatics.
-
-![F/A-18 sketch](fa-18-sketch.png)
 
 Pusher-prop jets:
 * [Eurofighter Typhoon](./eurofighter/)
