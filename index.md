@@ -10,6 +10,7 @@ Pusher-prop jets:
 * [F-22 Raptor](./f-22/)
 * [F/A-18 Super Hornet](./fa-18/)
 * [MiG-29 Fulcrum](./mig-29/)
+* [Su-31 Super Flanker](./su-37/)
 
 3D aerobatics:
 * [Sukhoi Su-31](./su-31/)
