@@ -23,17 +23,8 @@ Pusher-prop jets:
 
 I'd appreciate if you would send me pictures of your builds if you use any of my plans.
 
+Contact: tomhe at tomhe dot net
+
 Now go and cut some foam!
 
 *Tomas Hellberg*
-
-Contact: tomhe at tomhe dot net
-
-<aside id="models">
-<a href="/eurofighter/">Eurofighter Typhoon</a>
-<a href="/f-16/">F-16 Fighting Falcon</a>
-<a href="/f-22/">F-22 Raptor</a>
-<a href="/fa-18/">F/A-18 Super Hornet</a>
-<a href="/mig-29/">MiG-29 Fulcrum</a>
-<a href="/su-37/">Su-37 Super Flanker</a>
-</aside>
