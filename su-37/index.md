@@ -1,6 +1,8 @@
+# Sukhoi Su-37 Super Flanker
+
 ![Sukhoi Su-37 Super Flanker](./13.jpg)
 
-# Description
+## Description
 
 The Sukhoi Su-37 is an aerobatic 3D plane that is intended for outdoor use. Build it from the plans attached below.
 
@@ -10,7 +12,7 @@ This is quite a large model, so make sure to user proper reinforcements on the w
 
 The dimensions of the slots and tabs are made for 6 mm depron.
 
-# Data
+## Data
 
 <dl>
   <dt>Wing span</dt>
@@ -21,30 +23,30 @@ The dimensions of the slots and tabs are made for 6 mm depron.
   <dd>5.7 cm (2.2 inches) behind wing leading edge</dd>
 </dl>
 
-# Build instructions
+## Build instructions
 
 Use the [6mmFlyRC MiG-29 instruction manual](../docs/quick-build-mig-29.pdf). The build steps are mostly the same.
 
-# Forum discussion
+## Forum discussion
 
 [http://www.rcgroups.com/forums/showthread.php?t=1058716](http://www.rcgroups.com/forums/showthread.php?t=1058716)
 
-# CAD images
+## CAD images
 
 {% include image-gallery.html folder="/su-37/cad" %}
 
-# Build images
+## Build images
 
 {% include image-gallery.html folder="/su-37/build" %}
 
-# Model images
+## Model images
 
 {% include image-gallery.html folder="/su-37/model" %}
 
-# Plans
+## Plans
 
 {% include files.html folder="/su-37/plans" %}
 
-# License
+## License
 
 {% include license.html %}

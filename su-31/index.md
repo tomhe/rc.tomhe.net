@@ -1,12 +1,14 @@
+# Sukhoi Su-31
+
 ![Sukhoi Su-31](./3766199154_f6900d128f_k.jpg)
 
-# Description
+## Description
 
 The Su-31 is a mid-mounted pusher model intended to be flown with tailerons only, but it can easily be equipped with ailerons and rudders. Build it from the plans attached below.
 
 The dimensions of the slots and tabs are made for 6 mm depron.
 
-# Data
+## Data
 
 <dl>
   <dt>Wing span</dt>
@@ -19,34 +21,34 @@ The dimensions of the slots and tabs are made for 6 mm depron.
   <dd>Fits propellers with a maximum diameter of 6 inches</dd>
 </dl>
 
-# Build instructions
+## Build instructions
 
 Not available.
 
-# Forum discussion
+## Forum discussion
 
 [http://www.rcgroups.com/forums/showthread.php?t=803385](http://www.rcgroups.com/forums/showthread.php?t=803385)
 
-# CAD images
+## CAD images
 
 {% include image-gallery.html folder="/su-31/cad" %}
 
-# Build images
+## Build images
 
 {% include image-gallery.html folder="/su-31/build" %}
 
-# Model images
+## Model images
 
 {% include image-gallery.html folder="/su-31/model" %}
 
-# Artwork
+## Artwork
 
 {% include image-gallery.html folder="/su-31/artwork" %}
 
-# Plans
+## Plans
 
 {% include files.html folder="/su-31/plans" %}
 
-# License
+## License
 
 {% include license.html %}

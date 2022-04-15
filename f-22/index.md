@@ -1,12 +1,14 @@
+# F-22 Raptor
+
 ![F-22 Raptor](./03.jpg)
 
-# Description
+## Description
 
 The F-22 is a mid-mounted pusher model intended to be flown with tailerons only, but it can easily be equipped with ailerons and rudders. Build it from the plans attached below.
 
 The dimensions of the slots and tabs are made for 6 mm depron.
 
-# Data
+## Data
 
 <dl>
   <dt>Wing span</dt>
@@ -19,34 +21,34 @@ The dimensions of the slots and tabs are made for 6 mm depron.
   <dd>Fits propellers with a maximum diameter of 6 inches</dd>
 </dl>
 
-# Build instructions
+## Build instructions
 
 Follow [the instructions provided by 6mmFlyRC](../docs/quick-build-f-22-v2.pdf). There is also a [video build log](https://www.rcgroups.com/forums/showthread.php?797498-Profile-F-22-Video-Build-Log) by jetcaptain available.
 
-# Forum discussion
+## Forum discussion
 
 [http://www.rcgroups.com/forums/showthread.php?t=723890](http://www.rcgroups.com/forums/showthread.php?t=723890)
 
-# CAD images
+## CAD images
 
 {% include image-gallery.html folder="/f-22/cad" %}
 
-# Build images
+## Build images
 
 {% include image-gallery.html folder="/f-22/build" %}
 
-# Model images
+## Model images
 
 {% include image-gallery.html folder="/f-22/model" %}
 
-# Artwork
+## Artwork
 
 {% include image-gallery.html folder="/f-22/artwork" %}
 
-# Plans
+## Plans
 
 {% include files.html folder="/f-22/plans" %}
 
-# License
+## License
 
 {% include license.html %}

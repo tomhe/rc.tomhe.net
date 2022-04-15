@@ -1,6 +1,8 @@
-![Eurofighter](./27.jpg)
+# Eurofighter Typhoon
 
-# Description
+![Eurofighter Typhoon](./27.jpg)
+
+## Description
 
 The Eurofighter Typhoon is a mid-mounted pusher model. It is intended to be flown with tailerons only, but I've also made markings for a rudder. Build it from the plans attached below.
 
@@ -8,7 +10,7 @@ You will have to mark out and cut the slot for the motor.
 
 The dimensions of the slots and tabs are made for 6 mm depron.
 
-# Data
+## Data
 
 <dl>
   <dt>Wing span</dt>
@@ -21,34 +23,34 @@ The dimensions of the slots and tabs are made for 6 mm depron.
   <dd>Fits propellers with a maximum diameter of 6 inches</dd>
 </dl>
 
-# Build instructions
+## Build instructions
 
 Use the [6mmFlyRC MiG-29 instruction manual](../docs/quick-build-mig-29.pdf). The build steps are mostly the same.
 
-# Forum discussion
+## Forum discussion
 
 [http://www.rcgroups.com/forums/showthread.php?t=976693](http://www.rcgroups.com/forums/showthread.php?t=976693)
 
-# CAD images
+## CAD images
 
 {% include image-gallery.html folder="/eurofighter/cad" %}
 
-# Build images
+## Build images
 
 {% include image-gallery.html folder="/eurofighter/build" %}
 
-# Model images
+## Model images
 
 {% include image-gallery.html folder="/eurofighter/model" %}
 
-# Artwork
+## Artwork
 
 {% include image-gallery.html folder="/eurofighter/artwork" %}
 
-# Plans
+## Plans
 
 {% include files.html folder="/eurofighter/plans" %}
 
-# License
+## License
 
 {% include license.html %}

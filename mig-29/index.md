@@ -1,12 +1,14 @@
+# MiG-29 Fulcrum
+
 ![MiG-29 Fulcrum](./09.jpg)
 
-# Description
+## Description
 
 The MiG-29 is a mid-mounted pusher model intended to be flown with tailerons only, but it can easily be equipped with ailerons and rudders. Build it from the plans attached below.
 
 The dimensions of the slots and tabs are made for 6 mm depron.
 
-# Data
+## Data
 
 <dl>
   <dt>Wing span</dt>
@@ -19,30 +21,30 @@ The dimensions of the slots and tabs are made for 6 mm depron.
   <dd>Fits propellers with a maximum diameter of 6 inches</dd>
 </dl>
 
-# Build instructions
+## Build instructions
 
 6mmFlyRC has put together a [detailed build instruction](../docs/quick-build-mig-29.pdf).
 
-# Forum discussion
+## Forum discussion
 
 [http://www.rcgroups.com/forums/showthread.php?t=757214](http://www.rcgroups.com/forums/showthread.php?t=757214)
 
-# CAD images
+## CAD images
 
 {% include image-gallery.html folder="/mig-29/cad" %}
 
-# Build images
+## Build images
 
 {% include image-gallery.html folder="/mig-29/build" %}
 
-# Model images
+## Model images
 
 {% include image-gallery.html folder="/mig-29/model" %}
 
-# Plans
+## Plans
 
 {% include files.html folder="/mig-29/plans" %}
 
-# License
+## License
 
 {% include license.html %}
