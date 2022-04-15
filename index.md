@@ -8,6 +8,8 @@ Pusher-prop jets:
 * [Eurofighter Typhoon](./eurofighter/)
 * [F-16 Fighting Falcon](./f-16/)
 * [F-22 Raptor](./f-22/)
+* [F/A-18 Super Hornet](./fa-18/)
+* [MiG-29 Fulcrum](./mig-29/)
 
 3D aerobatics:
 * [Sukhoi Su-31](./su-31/)

@@ -23,7 +23,7 @@ The dimensions of the slots and tabs are made for 6 mm depron.
 
 # Build instructions
 
-Use the [6mmFlyRC MiG-29 instruction manual](../docs/quick-build-mig-29.pdf). The build steps are the same.
+Use the [6mmFlyRC MiG-29 instruction manual](../docs/quick-build-mig-29.pdf). The build steps are mostly the same.
 
 # Forum discussion
 
@@ -52,4 +52,3 @@ Use the [6mmFlyRC MiG-29 instruction manual](../docs/quick-build-mig-29.pdf). Th
 # License
 
 {% include license.html %}
-

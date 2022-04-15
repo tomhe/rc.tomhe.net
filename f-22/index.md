@@ -21,8 +21,6 @@ The dimensions of the slots and tabs are made for 6 mm depron.
 
 # Build instructions
 
-Use the [6mmFlyRC MiG-29 instruction manual](../docs/quick-build-mig-29.pdf). The build steps are the same.
-
 Follow [the instructions provided by 6mmFlyRC](../docs/quick-build-f-22-v2.pdf). There is also a [video build log](https://www.rcgroups.com/forums/showthread.php?797498-Profile-F-22-Video-Build-Log) by jetcaptain available.
 
 # Forum discussion
