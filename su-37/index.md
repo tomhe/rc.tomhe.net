@@ -10,7 +10,6 @@ The dimensions of the slots and tabs are made for 6 mm depron.
 
 ## Data
 
-
 <dl>
   <dt>Wing span</dt>
   <dd>72 cm (28 inches)</dd>
