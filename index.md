@@ -29,7 +29,7 @@ Now go and cut some foam!
 
 Contact: tomhe at tomhe dot net
 
-<aside>
+<aside id="models">
 <a href="/eurofighter/">Eurofighter Typhoon</a>
 <a href="/f-16/">F-16 Fighting Falcon</a>
 <a href="/f-22/">F-22 Raptor</a>
