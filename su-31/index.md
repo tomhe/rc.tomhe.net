@@ -1,4 +1,4 @@
-![Sukhoi Su-31](./13.jpg)
+![Sukhoi Su-31](./3766199154_f6900d128f_k.jpg)
 
 # Description
 

@@ -1,4 +1,4 @@
-![Su-31 Super Flanker](./3766199154_f6900d128f_k.jpg)
+![Su-31 Super Flanker](./13.jpg)
 
 # Description
 
