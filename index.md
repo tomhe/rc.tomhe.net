@@ -2,7 +2,7 @@
 
 # Welcome
 
-Here you can find plans, designed by [me](https://tomhe.net), for depron RC airplane models. Currently I have plans for pusher prop jets and plans for 3D aerobatics.
+Here you can find an archive of plans, designed by [me](https://tomhe.net), for depron RC airplane models. I'm not actively developing new plans.
 
 Pusher-prop jets:
 * [Eurofighter Typhoon](/eurofighter/)
@@ -21,7 +21,7 @@ Pusher-prop jets:
 
 * * *
 
-I'd appreciate if you would send me pictures of your builds if you use any of my plans.
+You are welcome to send me pictures of your builds if you use any of my plans. It's always appreciated.
 
 E-mail: tomhe at tomhe dot net
 
