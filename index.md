@@ -27,4 +27,4 @@ E-mail: tomhe at tomhe dot net
 
 Happy building!
 
-*Tomas Hellberg*
+*[Tomas Hellberg](https://tomhe.net)*
